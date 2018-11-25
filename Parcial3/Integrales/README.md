@@ -1,9 +1,9 @@
 
 
 
-# EIn
+# Integrales
  
-Se utiliza para resolver ecuaciones diferenciales. Se utilizan intervalos para sacar una variable h, que es utilizada para la fórmula:
+Son aproximaciones numéricas para integrales d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjkzNjA2MF19
+eyJoaXN0b3J5IjpbLTY4MTI1NzE4XX0=
 -->
