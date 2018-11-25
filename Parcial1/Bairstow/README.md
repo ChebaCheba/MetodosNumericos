@@ -7,8 +7,10 @@ Es un método que utiliza cálculo de las raíces de un polinomio buscando facto
 Si x^2-rx-s no es un factor cuadrático de p(x) se usará:
 ***p(x)=(x^2-rx-s)/(polinomio) + ax+b***.
 
+Fuente: http://www.academia.edu/3524281/Metodo_de_Bairstow._Raices_de_Polinomios
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg1MjI1NTUsMjA1NjYyNTI4OSwyND
-k3NDAxNTksNDMxNzQ0OTg2XX0=
+eyJoaXN0b3J5IjpbNjY5MzM4MDE1LDIwNTY2MjUyODksMjQ5Nz
+QwMTU5LDQzMTc0NDk4Nl19
 -->
