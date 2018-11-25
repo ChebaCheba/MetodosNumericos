@@ -1,6 +1,6 @@
 # Interpolación Polinomial
  
-Se utiliza para resolver ecuaciones diferenciales. Se utilizan intervalos para sacar una variable h, que es utilizada para la fórmula:
+Es un método que busca aproximar puntos dados al utilizar un polinomio que pase por todos estos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjM0NjEwMDddfQ==
+eyJoaXN0b3J5IjpbLTIwOTQ0NzM2NjFdfQ==
 -->
