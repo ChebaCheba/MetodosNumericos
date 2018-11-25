@@ -1,6 +1,6 @@
 # Bisección
 
-Dado un rango inicial donde haya un cambio de signo, dividir el rango por la mitad hasta encontrar la raíz.
+Dado un rango inicial donde haya un cambio de signo, dividir el .
 
 ***x=(a+b)/2***
 
@@ -8,6 +8,6 @@ Dado un rango inicial donde haya un cambio de signo, dividir el rango por la mit
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzUxNTU4NCwtNDExNzMxODY4LC03NT
+eyJoaXN0b3J5IjpbLTI2MDMxNjYyOCwtNDExNzMxODY4LC03NT
 U3NjQwNl19
 -->
