@@ -1,11 +1,11 @@
 
 
 # Falsa Posición
-
-El método de falsa pos
+ 
+El método de falsa posición utiliza los triángulos semejantes para aproximar la curva con una línea recta y sacar la raíz.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2NzQ4MDUxLDUxMjg2NTEwOSwtMTY3Mz
-k1OTkyNF19
+eyJoaXN0b3J5IjpbLTE2NTgyMDU2OTksNTEyODY1MTA5LC0xNj
+czOTU5OTI0XX0=
 -->
