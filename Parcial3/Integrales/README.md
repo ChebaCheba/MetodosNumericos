@@ -14,9 +14,13 @@ Utiliza la fórmula:
 
 **Simpson 13**
 
-Utiliza la fórmula:
+Utiliz
+
+https://wikimedia.org/api/rest_v1/media/math/render/svg/2c88a511d85fc5ad91c6ac0fc8d1869faf37db32
+
+**Simpson 18**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjgyMDY0OF19
+eyJoaXN0b3J5IjpbNjAwNDc0NjM1LC0xODI4MjA2NDhdfQ==
 -->
