@@ -18,8 +18,14 @@ Tiene varias propiedades, pero en este caso se utiliza para sacar la matriz inve
 
 **Determinante**
 
-Igual que la matriz adyacente, tiene varias propiedades, 
+Igual que la matriz adyacente, tiene varias propiedades, pero se utiliza para sacar la matriz inversa.
+
+**Matriz transpuesta**
+
+Para hacer una matriz transpuesta simplemente las filas de una matriz se convierten en columnas.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTg3MTY5NiwxMDk1OTczMTMsLTEwMT
+eyJoaXN0b3J5IjpbLTMxMTExOTAwOSwxMDk1OTczMTMsLTEwMT
 IwNTY4MTNdfQ==
 -->
