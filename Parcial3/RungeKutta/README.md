@@ -1,10 +1,10 @@
 # Runge Kutta
  
-Son métodos iterativos para resolver ecuaciones diferenciales. 	Cuentan con un intervalo h, Los métodos son de diferentes órdenes, haciéndolos cada vez más complejos pero precisos. 
+Son métodos iterativos para resolver ecuaciones diferenciales. 	Cuentan con un intervalo h, Los métodos son de diferentes órdenes, haciéndolos cada vez más complejos pero precisos. Donde 
 
 **Orden 1**
 
-
+K1 =  h*f(x.n,y.n)
 
 **Orden 2**
 
@@ -12,5 +12,6 @@ Son métodos iterativos para resolver ecuaciones diferenciales. 	Cuentan con un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjg5OTI1MiwtODI4MDAwNTg3XX0=
+eyJoaXN0b3J5IjpbLTg1MDU3NTQ1MSwxNjM2ODk5MjUyLC04Mj
+gwMDA1ODddfQ==
 -->
