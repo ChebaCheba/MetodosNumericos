@@ -1,7 +1,8 @@
 
 # Ecuaciones Diferenciales - Euler
  
-Se utiliza para resolver ecuaciones diferenciales
+Se utiliza para resolver ecuaciones diferenciales 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE4MDg1NjcxLDExMjU5MjQxMDddfQ==
+eyJoaXN0b3J5IjpbLTE3OTAyNzA0ODMsNDE4MDg1NjcxLDExMj
+U5MjQxMDddfQ==
 -->
