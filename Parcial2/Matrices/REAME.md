@@ -30,8 +30,10 @@ Tiene varias propiedades, pero en este caso se utiliza para sacar la matriz inve
 
 **Matriz inversa**
 
-La matriz inversa sirve para resolver sistemas de ecuaciones, al multiplicarla 
+La matriz inversa sirve para resolver sistemas de ecuaciones, al multiplicarla por los resultados que se esperan. La formula para sacar una matriz inversa es la siguiente:
+
+invA = (1/det(A))*adj(A)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTcyMzUyNDksMTYyNDMyMjAyOSwxMD
-k1OTczMTMsLTEwMTIwNTY4MTNdfQ==
+eyJoaXN0b3J5IjpbLTQ3NTMwNTAwMSwxNjI0MzIyMDI5LDEwOT
+U5NzMxMywtMTAxMjA1NjgxM119
 -->
