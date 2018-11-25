@@ -24,8 +24,10 @@ A pesar de que el determinante tiene varias propiedades, pero se utiliza para sa
 
 Para hacer una matriz transpuesta simplemente las filas de una matriz se convierten en columnas.
 
+**Matriz adjunta**
 
+Tiene varias propiedades, pero en este caso se utiliza para sacar la matriz inversa. Para sacar la matriz adjunta se
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDMyMjAyOSwxMDk1OTczMTMsLTEwMT
-IwNTY4MTNdfQ==
+eyJoaXN0b3J5IjpbLTIwMTE4NDEzMjMsMTYyNDMyMjAyOSwxMD
+k1OTczMTMsLTEwMTIwNTY4MTNdfQ==
 -->
