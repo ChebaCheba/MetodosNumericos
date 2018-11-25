@@ -14,7 +14,10 @@ La multiplicación consiste en hacer producto punto de las filas de la matriz de
 
 **Matriz adyacente**
 
+Tiene varias propiedades, pero en este caso se utiliza para sacar la matriz inversa.
 
+**Determinante**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTk3MzEzLC0xMDEyMDU2ODEzXX0=
+eyJoaXN0b3J5IjpbLTIwMDY2MzU1MjYsMTA5NTk3MzEzLC0xMD
+EyMDU2ODEzXX0=
 -->
