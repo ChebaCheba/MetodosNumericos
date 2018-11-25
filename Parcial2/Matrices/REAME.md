@@ -14,6 +14,7 @@ La multiplicación consiste en hacer producto punto de las filas de la matriz de
 
 **Matriz adyacente**
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTIwNTY4MTNdfQ==
+eyJoaXN0b3J5IjpbMTA5NTk3MzEzLC0xMDEyMDU2ODEzXX0=
 -->
