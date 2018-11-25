@@ -26,8 +26,8 @@ Para hacer una matriz transpuesta simplemente las filas de una matriz se convier
 
 **Matriz adjunta**
 
-Tiene varias propiedades, pero en este caso se utiliza para sacar la matriz inversa. Para sacar la matriz adjunta se
+Tiene varias propiedades, pero en este caso se utiliza para sacar la matriz inversa. Para sacar la matriz adjunta se utiliza la expansión por cofactores en cada elemento de la matriz hasta obtener el determinante, se recorre por filas y el determinante se acomoda por columnas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE4NDEzMjMsMTYyNDMyMjAyOSwxMD
-k1OTczMTMsLTEwMTIwNTY4MTNdfQ==
+eyJoaXN0b3J5IjpbMTkwMTg1ODk1NywxNjI0MzIyMDI5LDEwOT
+U5NzMxMywtMTAxMjA1NjgxM119
 -->
