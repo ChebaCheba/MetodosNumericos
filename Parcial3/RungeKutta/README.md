@@ -8,12 +8,18 @@ K1 =  h*f(x.n,y.n)
 
 **Orden 2**
 
-K2 = h*f(x.n+1/2*h,y.n+
+K2 = h*f(x.n+h/2,y.n+K1)
+
+**Orden  3**
+
+K3 = h*f(x.n+h/2)
 
 **Orden 4**
 
+K4 = h*f(
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njg3MjE4MjMsMTYzNjg5OTI1MiwtOD
-I4MDAwNTg3XX0=
+eyJoaXN0b3J5IjpbOTY0NDE0MjIyLDE2MzY4OTkyNTIsLTgyOD
+AwMDU4N119
 -->
