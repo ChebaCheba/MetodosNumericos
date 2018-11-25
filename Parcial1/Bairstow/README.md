@@ -2,8 +2,8 @@
 
 # Bairstow
 
-Se busca hacer un número suficiente de iteraciones para hacer que un valor se aproxime al valor deseado. Si converge su valor se acercará cada vez más a cero. De lo contrario sería una divergencia.
-
+Es un método que utiliza cálculo de las raíces de un polinomio buscando factores cuadráticos, tales que 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5NzQwMTU5LDQzMTc0NDk4Nl19
+eyJoaXN0b3J5IjpbLTE1NzY3ODY5NTUsMjQ5NzQwMTU5LDQzMT
+c0NDk4Nl19
 -->
