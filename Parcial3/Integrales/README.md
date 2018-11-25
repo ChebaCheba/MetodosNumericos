@@ -1,6 +1,3 @@
-
-
-
 # Integrales
  
 Son aproximaciones numéricas para integrales definidas.
@@ -24,5 +21,5 @@ Utiliza la fórmula:
 
 https://wikimedia.org/api/rest_v1/media/math/render/svg/08d1f81595554c8c27dcc3335af777771bfcbb89
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4NTE1MzEzLC0xODI4MjA2NDhdfQ==
+eyJoaXN0b3J5IjpbLTQwMzU5ODMzLC0xODI4MjA2NDhdfQ==
 -->
