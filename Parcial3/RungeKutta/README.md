@@ -4,22 +4,22 @@ Son métodos iterativos para resolver ecuaciones diferenciales. 	Cuentan con un 
 
 **Orden 1**
 
-K1 =  h*f(x.n,y.n)
+***K1 =  h*f(x.n,y.n)***
 
 **Orden 2**
 
-K2 = h*f(x.n+h/2,y.n+K1)
+***K2 = h*f(x.n+h/2,y.n+K1/2)***
 
 **Orden  3**
 
-K3 = h*f(x.n+h/2)
+***K3 = h*f(x.n+h/2,y.n+k2/2)***
 
 **Orden 4**
 
-K4 = h*f(
+***K4 = h*f(x.n+h,y.n+k3)***
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0NDE0MjIyLDE2MzY4OTkyNTIsLTgyOD
+eyJoaXN0b3J5IjpbNzk0OTc3MjQ3LDE2MzY4OTkyNTIsLTgyOD
 AwMDU4N119
 -->
