@@ -14,7 +14,7 @@ La multiplicación consiste en hacer producto punto de las filas de la matriz de
 
 **Matriz adyacente**
 
-La matriz adyacente se conforma de 1s y 0s. Es muy utilizada en grafos. Se 
+La matriz adyacente se conforma de 1s y 0s. Es muy utilizada en grafos. Se utiliza para sacar el determinante.
 
 **Determinante**
 
@@ -27,7 +27,11 @@ Para hacer una matriz transpuesta simplemente las filas de una matriz se convier
 **Matriz adjunta**
 
 Tiene varias propiedades, pero en este caso se utiliza para sacar la matriz inversa. Para sacar la matriz adjunta se utiliza la expansión por cofactores en cada elemento de la matriz hasta obtener el determinante, se recorre por filas y el determinante se acomoda por columnas.
+
+**Matriz inversa**
+
+La matriz inversa sirve para resolver sistemas de ecuaciones, al multiplicarla 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTcwNjAxMywxNjI0MzIyMDI5LDEwOT
-U5NzMxMywtMTAxMjA1NjgxM119
+eyJoaXN0b3J5IjpbLTE3MTcyMzUyNDksMTYyNDMyMjAyOSwxMD
+k1OTczMTMsLTEwMTIwNTY4MTNdfQ==
 -->
