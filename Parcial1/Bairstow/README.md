@@ -9,11 +9,12 @@ Es un método que utiliza cálculo de las raíces de un polinomio buscando facto
 Si x^2-rx-s no es un factor cuadrático de p(x) se usará:
 
 ***p(x)=(x^2-rx-s)/(polinomio) + ax+b***
+Es un método algo efectivo, debido a que se deriva del Newton-Raphson. 
 
 Fuente: http://www.academia.edu/3524281/Metodo_de_Bairstow._Raices_de_Polinomios
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4NzIzOTIxLDIwNTY2MjUyODksMjQ5Nz
+eyJoaXN0b3J5IjpbNjE5MTg4MTE2LDIwNTY2MjUyODksMjQ5Nz
 QwMTU5LDQzMTc0NDk4Nl19
 -->
