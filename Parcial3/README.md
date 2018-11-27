@@ -18,7 +18,10 @@ En este repositorio contiene códigos de varios métodos numéricos vistos en cl
 - Integrales
 - Interpolación Polinomial
 - Lagrange
+- Regresión Poliomial
+- Runge-Kutta
+- -Runge-Kutta Orden Superior
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzUyNDczODhdfQ==
+eyJoaXN0b3J5IjpbLTE5NDk3ODQ3NTFdfQ==
 -->
