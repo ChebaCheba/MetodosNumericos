@@ -9,8 +9,16 @@ En este repositorio contiene códigos de varios métodos numéricos vistos en cl
 - Gráfico
 - Newton-Rahpson
 - Punto Fijo
-- 
+- Eliminación Gaussiana
+- Factorización LU
+- Gauss-Seidel
+- Matrices
+- Newton-Raphson No-Lineal
+- Euler
+- Integrales
+- Interpolación Polinomial
+- Lagrange
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDQ5MDU2MF19
+eyJoaXN0b3J5IjpbLTEyNzUyNDczODhdfQ==
 -->
